@@ -1,4 +1,4 @@
-[![MasterHead](https://drive.google.com/uc?export=view&id=1mpenr_st_pl1iVhcjCqIjngm0GKgSDiK)
+![MasterHead](https://drive.google.com/uc?export=view&id=1mpenr_st_pl1iVhcjCqIjngm0GKgSDiK)
 <h1 align="center">Hi 👋, I'm Manju Haldurai</h1>
 <h3 align="center">Aspiring Machine Learning Engineer</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/17707/screenshots/2413754/rrr.gif">
